@@ -1,0 +1,124 @@
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+c:\users\temp\documents\visual studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form3.resources
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+C:\Users\TEMP\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form3.resources
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP.PPC.008\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form4.resources
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form3.resources
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form4.resources
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+C:\Users\TEMP.PPC.001\Documents\Visual Studio 2013\Projects\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form3.resources
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form4.resources
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form5.resources
+C:\Users\TEMP.PPC.011\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form6.resources
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form3.resources
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form4.resources
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form5.resources
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form6.resources
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+C:\Users\TEMP.PPC.001\Documents\Gereenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbprojResolveAssemblyReference.cache
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+F:\LC\Gerenciador_de_Times\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form3.resources
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.002\Desktop\Gerenciador_de_Times VB 2017\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form3.resources
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form4.resources
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe.config
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.exe
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.pdb
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\bin\Debug\Gereenciador_de_Times.xml
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form1.resources
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form2.resources
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form3.resources
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form4.resources
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Resources.resources
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.vbproj.GenerateResource.Cache
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form5.resources
+C:\Users\TEMP.PPC.004\Desktop\Gerenciador_de_Times VB 2017 versao 2\Gereenciador_de_Times\obj\Debug\Gereenciador_de_Times.Form6.resources
